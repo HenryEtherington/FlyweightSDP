@@ -93,7 +93,7 @@ import java.text.NumberFormat;
         min = 1;
         return min + (int) (Math.random() * ((max - min) + 1));
     }
- }
+  }
 
 
 
