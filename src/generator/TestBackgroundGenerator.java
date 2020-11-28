@@ -53,6 +53,5 @@ public class TestBackgroundGenerator {
 
         assertNotSame(expectedIsMemoryBefore,backgroundGenerator.isMemory());
     }
-
 }
 
